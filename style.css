@@ -1,0 +1,23 @@
+.font{
+    font-size: 70px;
+}
+.color{
+    color: rgb(1, 1, 53);
+}
+.button-color{
+    color: white;
+    background-color: olivedrab;
+    border-radius: 5px;
+    width: 150px;
+}
+.color-pen{
+    color: orange;
+}
+.text{
+    color: rgb(1, 1, 53);
+    font-size: 60px;
+    
+}
+.height{
+    height: 700px;
+}
